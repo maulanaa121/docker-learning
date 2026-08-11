@@ -1,0 +1,7 @@
+FROM ubuntu:20.04
+LABEL maintainer = "fm886211@gmail.com"
+RUN apt-get update
+WORKDIR /Home/coba
+RUN echo "Halo saya dari container 4" > file3.txt
+COPY folder4 /Home/coba/
+CMD ["echo","hallo dari container 4"]
