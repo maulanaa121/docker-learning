@@ -1,2 +1,3 @@
 FROM nginx
 LABEL maintainer="fm886211@gmail.com"
+COPY website-sederhana /usr/share/nginx/html
