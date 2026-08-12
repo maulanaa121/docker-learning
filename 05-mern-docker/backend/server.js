@@ -7,14 +7,21 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.get("/", (req, res) => {
-    res.json({
-        message: "Backend MERN berjalan!"
+mongoose
+  .connect("mongodb://mongodb:27017/coba")
+  .then(() => {
+    console.log("MongoDB berhasil terhubung");
+
+    app.listen(5000, () => {
+      console.log("Backend MERN berjalan di port 5000");
     });
-});
+  })
+  .catch((error) => {
+    console.error("MongoDB error:", error);
+  });
 
-const PORT = 5000;
-
-app.listen(PORT, () => {
-    console.log(`Server berjalan di port ${PORT}`);
+app.get("/", (req, res) => {
+  res.json({
+    message: "Backend MERN berjalan!"
+  });
 });
