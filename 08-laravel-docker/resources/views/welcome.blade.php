@@ -110,12 +110,6 @@
                     class="transition hover:text-white">
                     Projects
                 </a>
-
-                <a
-                    href="#contact"
-                    class="transition hover:text-white">
-                    Contact
-                </a>
             </div>
 
             <!-- Contact button -->
