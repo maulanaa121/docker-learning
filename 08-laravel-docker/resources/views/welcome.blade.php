@@ -366,56 +366,6 @@
                            md:grid-cols-2
                            lg:grid-cols-3">
 
-                    <!-- Card 1 -->
-                    <div
-                        class="group rounded-3xl
-                               border border-white/10
-                               bg-white/[0.03]
-                               p-6 backdrop-blur-xl
-                               transition duration-500
-                               hover:-translate-y-2
-                               hover:border-violet-400/30
-                               hover:bg-white/[0.05]">
-
-                        <div
-                            class="mb-12 flex h-40
-                                   items-center justify-center
-                                   rounded-2xl
-                                   bg-gradient-to-br
-                                   from-violet-500/20
-                                   to-blue-500/10">
-
-                            <span
-                                class="text-5xl font-black
-                                       text-white/10">
-                                01
-                            </span>
-
-                        </div>
-
-                        <p
-                            class="text-xs uppercase
-                                   tracking-widest
-                                   text-violet-400">
-                            Web Development
-                        </p>
-
-                        <h3
-                            class="mt-3 text-xl font-semibold">
-                            Modern Website
-                        </h3>
-
-                        <p
-                            class="mt-3 text-sm
-                                   leading-6
-                                   text-white/40">
-                            A modern responsive website
-                            built with clean architecture.
-                        </p>
-
-                    </div>
-
-
                     <!-- Card 2 -->
                     <div
                         class="group rounded-3xl
