@@ -364,50 +364,6 @@
 
         </section>
 
-
-        <!-- CONTACT -->
-        <section
-            id="contact"
-            class="border-t border-white/5
-                   px-6 py-32">
-
-            <div
-                class="mx-auto max-w-4xl
-                       rounded-[2rem]
-                       border border-white/10
-                       bg-white/[0.03]
-                       px-6 py-20
-                       text-center
-                       backdrop-blur-xl
-                       sm:px-12">
-
-                <p
-                    class="mx-auto mt-6 max-w-xl
-                           text-white/40">
-
-                    Have an idea, project, or opportunity?
-                    Let's talk and make it happen.
-
-                </p>
-
-                <a
-                    href="mailto:hello@example.com"
-                    class="mt-8 inline-flex
-                           rounded-full
-                           bg-white px-7 py-3.5
-                           text-sm font-semibold
-                           text-black
-                           transition
-                           hover:scale-105">
-
-                    Contact Me →
-
-                </a>
-
-            </div>
-
-        </section>
-
     </main>
 
 
