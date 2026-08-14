@@ -142,24 +142,6 @@
                 class="mx-auto w-full max-w-5xl
                        text-center">
 
-                <!-- Status -->
-                <div
-                    class="mb-8 inline-flex items-center gap-2
-                           rounded-full border border-white/10
-                           bg-white/[0.03]
-                           px-4 py-2
-                           text-xs text-white/60
-                           backdrop-blur-xl">
-
-                    <span
-                        class="h-2 w-2 animate-pulse
-                               rounded-full bg-emerald-400">
-                    </span>
-
-                    Available for opportunities
-                </div>
-
-
 
                 <!-- NAME -->
                 <h1
