@@ -380,14 +380,6 @@
                        text-center
                        backdrop-blur-xl
                        sm:px-12">
-
-                <p
-                    class="mb-4 text-sm
-                           uppercase tracking-[0.25em]
-                           text-violet-400">
-                    Contact
-                </p>
-
                 <h2
                     class="text-4xl font-bold
                            tracking-tight
