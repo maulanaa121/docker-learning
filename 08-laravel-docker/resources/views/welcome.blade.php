@@ -160,14 +160,6 @@
                 </div>
 
 
-                <!-- Small heading -->
-                <p
-                    class="mb-5 text-sm font-medium
-                           uppercase tracking-[0.3em]
-                           text-violet-400">
-                    Hello, I'm
-                </p>
-
 
                 <!-- NAME -->
                 <h1
