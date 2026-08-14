@@ -183,20 +183,6 @@
                 </h1>
 
 
-                <!-- Description -->
-                <p
-                    class="mx-auto mt-8 max-w-2xl
-                           text-base leading-7
-                           text-white/50
-                           sm:text-lg">
-
-                    I build modern digital experiences
-                    with clean design, thoughtful interaction,
-                    and powerful technology.
-
-                </p>
-
-
                 <!-- Buttons -->
                 <div
                     class="mt-10 flex flex-col
