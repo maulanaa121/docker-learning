@@ -380,17 +380,6 @@
                        text-center
                        backdrop-blur-xl
                        sm:px-12">
-                <h2
-                    class="text-4xl font-bold
-                           tracking-tight
-                           sm:text-6xl">
-
-                    Let's build something
-                    <span class="text-white/40">
-                        great.
-                    </span>
-
-                </h2>
 
                 <p
                     class="mx-auto mt-6 max-w-xl
