@@ -334,36 +334,6 @@
         </section>
 
 
-        <!-- PROJECTS -->
-        <section
-            id="projects"
-            class="border-t border-white/5
-                   px-6 py-32">
-
-            <div class="mx-auto max-w-6xl">
-
-                <div class="mb-14">
-
-                    <p
-                        class="mb-4 text-sm
-                               uppercase tracking-[0.25em]
-                               text-violet-400">
-                        Selected Work
-                    </p>
-
-                    <h2
-                        class="text-4xl font-bold
-                               tracking-tight
-                               sm:text-5xl">
-                        Projects
-                    </h2>
-
-                </div>
-
-            </div>
-
-        </section>
-
     </main>
 
 
